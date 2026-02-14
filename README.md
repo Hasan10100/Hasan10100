@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Hasan10100/Hasan10100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm S.T.S. Hasantha, a Final-Year Computer Engineering student at the University of Peradeniya (2022–2026).  
+I’m interested in designing reliable data systems that transform raw information into meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently exploring large-scale data architectures  
+- 🌱 Continuously learning about modern data platforms  
+- 💬 Interested in analytics, data infrastructure, and system design  
+- 📫 Contact: e20131@eng.pdn.ac.lk  
+- 🔗 LinkedIn: https://www.linkedin.com/in/s-t-s-hasantha-611227239  
+
+---
+
+Open to opportunities in data-focused engineering roles.
