@@ -2,6 +2,7 @@
 
 I'm **S.T.S. Hasantha**, a Final-Year Computer Engineering student at the University of Peradeniya (2022–2026).  
 I enjoy building software systems — from designing data pipelines to developing responsive web applications.
+
 ---
 
 - 🔭 Currently exploring large-scale data architectures and scalable web systems  
