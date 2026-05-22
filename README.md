@@ -10,7 +10,7 @@ I enjoy building software systems — from designing data pipelines to developin
 - 💬 Interested in data engineering, full-stack development 
 - ⚙️ Building reliable APIs, data pipelines, and responsive web applications  
 - 📫 Contact: stshasantha@gmail.com  
-- 🔗 LinkedIn: [s-t-s-hasantha](https://www.linkedin.com/in/s-t-s-hasantha-611227239)
+- 🔗 LinkedIn: [stshasantha](https://www.linkedin.com/in/stshasantha)
 
 ---
 
