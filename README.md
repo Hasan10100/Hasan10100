@@ -9,7 +9,7 @@ I enjoy building software systems — from designing data pipelines to developin
 - 🌱 Continuously learning modern backend, cloud, and frontend technologies  
 - 💬 Interested in data engineering, full-stack development 
 - ⚙️ Building reliable APIs, data pipelines, and responsive web applications  
-- 📫 Contact: e20131@eng.pdn.ac.lk  
+- 📫 Contact: stshasantha@gmail.com  
 - 🔗 LinkedIn: [s-t-s-hasantha](https://www.linkedin.com/in/s-t-s-hasantha-611227239)
 
 ---
